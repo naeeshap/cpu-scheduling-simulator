@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Object files
+*.o
+
+# Executables
+fcfs
+sjf
+rr
+priority
+priority_rr
